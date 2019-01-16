@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Wildlife Big Five </title>
+<style> 
+body {
+background-color:snow;
+margin:auto;
+}
+#division {
+background-image:url(C:/Users/hp/Desktop/Wildlife/image4.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+box-shadow:0px 0px 30px black;
+border-radius:0%;
+margin-top:2.5%;
+width:100%;
+height:845px;
+} 
+#ScndDivision {
+
+background-color:snow;
+box-shadow:0px 0px 30px black;
+width:100%;
+height:240px;
+float:left;
+margin-top:20%;
+}
+img {
+width:95%;
+height:200px;
+box-shadow:0px 0px 30px black;
+}
+img:hover {
+padding:5%;
+} 
+h1 {
+font-size:72px;
+font-family:Trebuchet MS;
+color:maroon;
+text-shadow:2px 4px 2px black;
+width:50%;
+float:left;
+border-style:solid;
+border-bottom-color:black;
+border-top:none;
+border-left:none;
+border-right:none;
+
+} 
+table {
+margin-top:6%;
+margin-right:2%;
+width:30%;
+float:right;
+background-color:snow;
+box-shadow:0px 0px 30px black;
+}
+#home {
+background-color:silver;
+}
+#home:hover {
+background-color:maroon;
+} 
+#TheBigFive {
+background-color:silver;
+}
+#TheBigFive:hover {
+background-color:maroon;;
+} 
+a {
+text-align:right;
+text-decoration:none;
+color:black;
+font-family:Trebuchet MS;
+}
+a:hover {
+color:snow;
+} 
+</style>
+
+<body>
+<div id="division">
+<h1> The WildLife B<span style="color:black;">i</span>g Five </h1>
+<table border="0">
+<tr>
+<th id="home"> <a href="BigFive/start-files/home.html" title="Click"> HOME </a> </th>
+<th id="TheBigFive"> <a href="BigFive/start-files/TheBigFive.html" title="Click"> The Big Five </a> </th>
+</tr>
+</table>
+<table id="ScndDivision">
+<tr>
+<!--<td> <a href="BigFive/CapeBuffalo.html"> <img title="AfricanCapeBuffalo" src="BigFive/AfricanBigFives/AfricanCapeBuffalo.jpg" /> </a> </td>
+<td> <a href="BigFive/leopard.html"> <img title="AfricanLeopard" src="BigFive/AfricanBigFives/AfricanLeopard.jpg" /> </a> </td>
+<td> <a href="BigFive/lion.html"> <img title="Africanlion" src="BigFive/AfricanBigFives/Africanlion.jpg" /> </a> </td>
+<td> <a href="BigFive/rhino.html"> <img title="AfricanRhino" src="BigFive/AfricanBigFives/AfricanRhino.jpg" /> </a> </td>
+<td> <a href="BigFive/elephant.html"> <img title="AfricanElephant" src="BigFive/AfricanBigFives/AfricanElephant.jpg" /> </a> </td>
+-->
+</tr>
+</table>
+</div> 
+<h4 style="font-family:Trebuchet MS; text-align:right;"> &copy rohit </h4> 
+</body>
+
+</html>
